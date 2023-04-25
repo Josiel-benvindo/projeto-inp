@@ -1,0 +1,95 @@
+.logo{
+    position: absolute;
+    width: 1536px;
+    height: 126px;
+    left: 0px;
+    top: 0px;
+    background-color:rgba(235, 199, 57, 1) ;
+}
+ .logo h1{
+    color: aliceblue;
+    position: absolute;
+width: 542px;
+height: 42px;
+left: 227px;
+top: -60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+ }
+ .logo p{
+
+    position: absolute;
+width: 117px;
+height: 39px;
+left: 1247px;
+top: 45px;
+font-size: 30px;
+ }
+ .logo p2{
+    position: absolute;
+width: 117px;
+height: 39px;
+left: 1047px;
+top: 75px;
+font-size: 30px;
+ }
+ .img img{
+    position: absolute;
+width: 212px;
+height: 126px;
+left: 0px;
+top: 0px;
+ }
+
+ .sobre{
+    position: absolute;
+width: 1536px;
+height: 88px;
+left: 0px;
+top: 126px;
+    background-color:  #EDEDED;;
+    box-shadow:  inset 0px 4px 4px rgba(0, 0, 0, 0.28);;
+ }
+ .sobre h1{
+    position: absolute;
+width: 227px;
+height: 39px;
+left: 611px;
+font-family: Arial, sans-serif;
+ }
+ .his h1{
+    position: absolute;
+width: 333px;
+height: 48px;
+left: 571px;
+top: 291px;
+font-size: 40px;
+ }
+ .his p{
+    position: absolute;
+width: 1407px;
+height: 147px;
+left: 76px;
+top: 375px;
+font-size: 24px;
+ }
+ .obj h1{
+    position: absolute;
+width: 157px;
+height: 39px;
+top: 570px;
+left: 671px;
+font-family: Arial, sans-serif;
+ }
+ .obj p{
+    position: absolute;
+    width: 1307px;
+    height: 47px;
+    left: 76px;
+    top: 650px;
+    font-size: 24px;
+ }
