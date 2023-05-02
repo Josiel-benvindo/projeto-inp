@@ -31,7 +31,12 @@ height: 39px;
 left: 1247px;
 top: 45px;
 font-size: 30px;
+color: black;
  }
+ .logo p:hover{
+   transform: scale(1.05);
+
+}
  .logo p2{
     position: absolute;
 width: 117px;
@@ -39,7 +44,11 @@ height: 39px;
 left: 1047px;
 top: 75px;
 font-size: 30px;
+color: black;
  }
+ .logo p2:hover{
+   transform: scale(1.05);
+}
  .img img{
     position: absolute;
 width: 212px;

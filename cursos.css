@@ -28,14 +28,25 @@ height: 39px;
 left: 1247px;
 top: 45px;
 font-size: 30px;
+color: #000;
+ }
+ .logo p:hover{
+    transform: scale(1.05);
+
  }
  .logo p2{
     position: absolute;
-width: 117px;
+width: 125px;
 height: 39px;
 left: 1047px;
 top: 75px;
 font-size: 30px;
+color: #000000;
+
+
+ }
+ .logo p2:hover{
+    transform: scale(1.05);
  }
  .img img{
     position: absolute;
@@ -97,6 +108,10 @@ background: #3E84C4;
 border-radius: 50px;
 border: none;
 }
+.butao :hover{
+    transform: scale(1.05);
+    background-color:  rgba(235, 199, 57, 1);
+ }
 .imE img{
     position: absolute;
 width: 246px;
@@ -132,6 +147,10 @@ background: #3E84C4;
 border-radius: 50px;
 border: none;
 }
+.butaoE :hover{
+    transform: scale(1.05);
+    background-color:  rgba(235, 199, 57, 1);
+ }
 .imEt img{
     position: absolute;
 width: 186px;
@@ -166,6 +185,10 @@ background: #3E84C4;
 border-radius: 50px;
 border: none;
 }
+.butaoEt :hover{
+    transform: scale(1.05);
+    background-color:  rgba(235, 199, 57, 1);
+ }
 .imEs img{
     position: absolute;
     width: 246px;
@@ -199,7 +222,12 @@ font-size: 20px;
 background: #3E84C4;
 border-radius: 50px;
 border: none;
+
 }
+.butaoEs :hover{
+    transform: scale(1.05);
+    background-color:  rgba(235, 199, 57, 1);
+ }
 .comentarios{
     position: absolute;
 width: 1539px;
@@ -208,6 +236,7 @@ left: -20px;
 top: 1506px;
 
 background: #3E84C4;
+box-shadow:  inset 0px 4px 4px rgba(0, 0, 0, 0.28);;
 
 }
 .comentarios h1{
