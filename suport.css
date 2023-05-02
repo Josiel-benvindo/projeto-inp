@@ -47,56 +47,56 @@ color: black;
    transform: scale(1.05);
 }
  .img img{
-    position: absolute;
-width: 212px;
-height: 126px;
-left: 0px;
-top: 0px;
+   position: absolute;
+   width: 212px;
+   height: 212px;
+   left: 0px;
+   top: -40px;
  }
 
  .suport{
     position: absolute;
-width: 1536px;
-height: 88px;
-left: 0px;
-top: 126px;
+    width: 1536px;
+    height: 88px;
+    left: 0px;
+    top: 126px;
     background-color:  #EDEDED;;
     box-shadow:  inset 0px 4px 4px rgba(0, 0, 0, 0.28);;
  }
  .suport h1{
     position: absolute;
-width: 227px;
-height: 39px;
-left: 651px;
-top: 5px;
-font-family: Arial, sans-serif;
+    width: 227px;
+    height: 39px;
+    left: 651px;
+    top: 5px;
+    font-family: Arial, sans-serif;
  }
  .pg {
 
     position: absolute;
-width: 544px;
-height: 68px;
-left: 68px;
-top: 290px;
+    width: 544px;
+    height: 68px;
+    left: 68px;
+    top: 290px;
 
 background: #EBC739;
  }
  .pg p{
     position: absolute;
-width: 394px;
-height: 29px;
-left: 38px;
-top: -20px;
-font-size: 24px;
+    width: 394px;
+    height: 29px;
+    left: 38px;
+    top: -20px;
+    font-size: 24px;
  }
  .pg p2{
     position: absolute;
-width: 488px;
-height: 29px;
-left: 96px;
-top: 30px;
-font-size: 24px;
-color: #0863EB;
+    width: 488px;
+    height: 29px;
+    left: 96px;
+    top: 30px;
+    font-size: 24px;
+    color: #0863EB;
  }
  .ph {
     position: absolute;

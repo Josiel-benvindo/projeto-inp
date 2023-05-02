@@ -51,10 +51,10 @@ color: black;
 }
  .img img{
     position: absolute;
-width: 212px;
-height: 126px;
+    width: 212px;
+    height: 212px;
 left: 0px;
-top: 0px;
+top: -40px;
  }
 
  .entrar{
@@ -164,4 +164,6 @@ font-size: 25px;
  .butao button:hover{
     transform: scale(1.05);
     background-color:  rgba(235, 199, 57, 1);
+     border: rgba(235, 199, 57, 1);
+    transition: 0.5s;
  }

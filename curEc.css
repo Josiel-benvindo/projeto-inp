@@ -39,10 +39,10 @@ font-size: 30px;
  }
  .img img{
     position: absolute;
-width: 212px;
-height: 126px;
+    width: 212px;
+    height: 212px;
 left: 0px;
-top: 0px;
+top: -40px;
  }
 
  .detalhe{
