@@ -1,5 +1,6 @@
 body{
-    background-color: rgba(62, 132, 196, 1);
+   background-color: rgba(62, 132, 196, 1);
+   font-family: Arial, Helvetica, sans-serif; 
 }
 .logo{
     position: absolute;
@@ -16,8 +17,6 @@ width: 542px;
 height: 42px;
 left: 227px;
 top: -60px;
-
-font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 96px;
@@ -35,11 +34,12 @@ color: black;
  }
  .logo p:hover{
    transform: scale(1.05);
+   transition: 0.5s;
 
 }
  .logo p2{
     position: absolute;
-width: 117px;
+width: 136px;
 height: 39px;
 left: 1047px;
 top: 75px;
@@ -48,6 +48,7 @@ color: black;
  }
  .logo p2:hover{
    transform: scale(1.05);
+   transition: 0.5s;
 }
  .img img{
     position: absolute;

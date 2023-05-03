@@ -1,3 +1,7 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .logo{
     position: absolute;
     width: 1536px;
@@ -23,11 +27,16 @@ line-height: 116px;
  .logo p{
 
     position: absolute;
-width: 117px;
+width: 137px;
 height: 39px;
 left: 1247px;
 top: 45px;
 font-size: 30px;
+ }
+ .logo p:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+
  }
  .logo p2{
     position: absolute;
@@ -36,6 +45,10 @@ height: 39px;
 left: 1047px;
 top: 75px;
 font-size: 30px;
+ }
+ .logo p2:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
  }
  .img img{
     position: absolute;
